@@ -1,0 +1,14 @@
+{
+  "name": "c9-repl-cart",
+  "version": "0.1.0",
+  "description": "repl cart",
+  "main": "repl-cart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cobi",
+  "type":"module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
